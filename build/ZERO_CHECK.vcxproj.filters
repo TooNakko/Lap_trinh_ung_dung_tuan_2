@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anhki\OneDrive\Tài liệu\_studi\3.2\ltud\Buoi_2\build\CMakeFiles\bcb0dd66268627d2e33566a96e2ac926\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{739A8ED3-935F-3E68-B3C9-317642D60C88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\anhki\OneDrive\Tài liệu\_studi\3.2\ltud\Buoi_2\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anhki\OneDrive\Tài liệu\_studi\3.2\ltud\Buoi_2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{43250F02-8F4B-3388-90D9-623BF635D89F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
